@@ -5,4 +5,4 @@
 unity3d.com
 
 username = 'test'
-pass = 'tsting232093'
+password = 'tsting232093'
